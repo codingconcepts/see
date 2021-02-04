@@ -13,7 +13,7 @@ import (
 	"syscall"
 	"time"
 
-	"see/pkg"
+	"github.com/codingconcepts/see/pkg"
 )
 
 func main() {
